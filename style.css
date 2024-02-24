@@ -1,0 +1,87 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: antiquewhite;
+    background-color:black;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-shadow: 8px 4px 5px ;
+}
+#heading2{
+   background-color: darkcyan; color: white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#div1{
+    background-color: #ee3e80;color: wheat;
+}
+#cnic-no{
+    letter-spacing: 10px;
+}
+#heading3{
+    background-color: darkcyan; color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#div2{
+    background-color: #ee3e80; color: wheat
+}
+ol li{
+    line-height: 30px;
+}
+.ind{
+    background-color:black;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: double;
+}
+.ind2{
+    background-color: yellowgreen;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2opx;
+}
+#a1{
+    background-color:yellowgreen; color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ind3{
+    background-color:yellowgreen ;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2opx;
+}
+#b1{
+    background-color:yellowgreen; color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#heading4{
+    background-color: darkcyan; color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs
+}
+#div3{
+    background-color: #ee3e80; color: wheat;
+}
+#heading5{
+    background-color: darkcyan; color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs
+}
+#div4{
+    background-color: #ee3e80; color: wheat;   
+}
+#heading6{
+    background-color: darkcyan; color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs  
+}
+#div5{
+    background-color: #ee3e80; color: wheat; 
+}
+#heading7{
+    background-color: darkcyan; color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs  
+}
+a{
+    background-color: #ee3e80;
+     text-decoration: none;
+     color: rgb(209, 191, 180);
+}
